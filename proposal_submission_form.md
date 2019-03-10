@@ -1,27 +1,29 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `230`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Belford and Sons`   
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### `App that connects caregivers of elderly people to take turns caring for the other's person so they can have a day off and connect elderly people to each other so they can have friends while maintaining the independence of aging in place.`
+##### `Park and weather data will provide activities, and app will connect the community of caregivers to share ideas, recommendations, and stories to build a support system for the caregivers.`  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
-- ##### `YOUR DATASETS  HERE`
+- ##### `Library (SCALE SD): https://data.sandiego.gov/datasets/library-locations/`
+- ##### `Weather: https://www.ncdc.noaa.gov/cdo-web/search;jsessionid=61DA20D30E76F949722D62307CADDEE6`
+- ##### `Recreation Center: https://data.sandiego.gov/datasets/recreation-center-locations/`
+- ##### `Park Locations: https://data.sandiego.gov/datasets/park-locations/`
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `isabellamessina`
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
 | 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 |Isabella Messina     |         [X]          |             [X]             |         [ ]          |                   [X]                     |
+| 03 | Daniel Patton       |         [X]          |             [ ]             |         [ ]          |                   [X]                     |
+| 04 | Cody Lin            |         [X]          |             [ ]             |         [ ]          |                   [X]                     |
+| 05 |  Brian Duong        |         [X]          |             [ ]             |         [ ]          |                   [X]                     |
 | 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
@@ -31,8 +33,8 @@
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [ ] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [ ] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question:
 
 **Smart Environment**
@@ -52,7 +54,7 @@
 **Smart Health**
 - [ ] How can we share useful public health information and web analytical tools for improve public health in San Diego?
 - [ ] What chronic diseases affect San Diegans and how can these conditions be managed daily?
-- [ ] Your question:
+- [X] Your question: How can we improve the health of the elderly aging independently and the lifestyles of their caregivers?
 
 
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")  
